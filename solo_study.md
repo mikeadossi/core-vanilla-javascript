@@ -20,6 +20,7 @@ Your objectives for the day are to achieve:
 - [X] Complete "Working With Numbers"
 - [X] Complete "Making Decisions with Conditional Statements"
 - [X] Complete "Creating Reusable Code with Functions"
+- Treehouse proof of completion: [core-vanilla-javascript/challenges/treeHouseCompletion.png](https://github.com/mikeadossi/core-vanilla-javascript/tree/master/challenges) (by the time you read this my trial period would've been over w/ account closed)
 - [x] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
@@ -45,21 +46,21 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 
 - [X] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
   - [X] Link to solution here: https://jsfiddle.net/8roaq3qz/  
-- [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
-- [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
- - [ ] Link to your solution here
-- [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
-- [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
+- [X] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
+ - [X] Link to solution here: https://jsfiddle.net/qvLx7d0b/4/
+- [X] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
+ - [X] Link to your solution here: https://jsfiddle.net/60bqn02w/3/ 
+- [X] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
+- [X] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
-- [ ] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
-  - [ ] Link to your solution here
-- [ ] Complete the [Function Exercises](https://github.com/bgando/function-exercises)
-  - [ ] Link to your solution here
-- [ ] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
-  - [ ] Link to your solution here
+- [X] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
+  - [X] Link to your solution here: https://jsfiddle.net/dgcz2ab0/1/  
+- [X] Complete the [Function Exercises](https://github.com/bgando/function-exercises)
+  - [X] Link to your solution here: https://jsfiddle.net/4zL8wbxf/3/  
+- [X] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
+  - [X] Link to your solution here: https://jsfiddle.net/otscubop/1/  
 
 - Browse in the terminal to the `js-assessment` folder in this repo.
 - Run `npm install` and `npm start`, then goto `http://127.0.0.1:4444/` in your browser.
