@@ -20,7 +20,7 @@ Your objectives for the day are to achieve:
 - [X] Complete "Working With Numbers"
 - [X] Complete "Making Decisions with Conditional Statements"
 - [X] Complete "Creating Reusable Code with Functions"
-- Treehouse proof of completion: [core-vanilla-javascript/challenges/treeHouseCompletion.png](https://github.com/mikeadossi/core-vanilla-javascript/tree/master/challenges) (by the time you read this my trial period would've been over w/ account closed)
+- Treehouse proof of completion: [core-vanilla-javascript/challenges/treeHouseCompletion.png](https://github.com/mikeadossi/core-vanilla-javascript/blob/master/challenges/treeHouseCompletion.png) (by the time you read this my trial period would've been over w/ account closed)
 - [x] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
